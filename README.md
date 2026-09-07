@@ -98,52 +98,13 @@ capstone-project/
 
 The RAAIDD log below summarises the key Risks, Actions, Assumptions, Issues, Decisions, and Dependencies associated with the development of the STADIOstream subscriber churn prediction project.
 
-### 1. Risks
-
-- Insufficient historical churn data: The data provided by STADIOchoice may not contain enough historical examples of both churned and retained STADIOstream subscribers to train and evaluate a reliable classification model.
-- Data quality and completeness: Streaming behavioural logs may contain missing, sampled, or inconsistent records, while customer-support free-text data may require substantial preprocessing.
-- Class imbalance: If churned subscribers represent a substantially smaller proportion of the dataset, a model may favour the majority class and produce misleading accuracy results.
-- **Data leakage:** Features may inadvertently contain information recorded after a subscriber has already begun the cancellation process, resulting in unrealistically strong model performance.
-
-### 2. Actions
-
-- Define the prediction target and churn observation period before modelling.
-- Profile the supplied subscriber, subscription, billing, and behavioural datasets for completeness, consistency, and potential data leakage.
-- Create a reproducible data-preparation and feature-engineering process.
-- Establish a suitable train/validation/test strategy that respects the temporal nature of subscriber churn.
-- Evaluate multiple classification models using appropriate performance metrics rather than accuracy alone.
-- Analyse feature importance and model behaviour to identify characteristics associated with increased churn risk.
-- Document assumptions, methodological decisions, limitations, and experimental results throughout the project lifecycle.
-
-### 3. Assumptions
-
-- STADIOchoice can provide sufficiently detailed historical STADIOstream subscriber and behavioural data to construct a churn prediction dataset.
-- A consistent subscriber or household identifier exists across relevant streaming, subscription, and billing records.
-- A reliable definition of subscriber churn can be established from cancellation and subscription records.
-- Behavioural activity recorded before the prediction point can be used to construct features without exposing future information.
-- The available historical data is representative enough of STADIOstream subscribers to support model development and evaluation.
-
-### 4. Issues
-
-- If the supplied data contains substantial missing or inconsistent subscriber identifiers, it may not be possible to reliably join viewing, subscription, and billing records.
-- If behavioural logs are sampled or unavailable for important periods, some subscriber activity may be underrepresented.
-- If the supplied data does not contain a sufficiently reliable churn outcome, the project may require a revised target definition or narrower scope.
-
-### 5. Decisions
-
-- The project will focus specifically on predicting STADIOstream subscriber churn, rather than attempting to model both streaming and satellite churn.
-- Churn prediction will be framed as a classification problem, using subscriber information available before a defined prediction point to predict subsequent churn.
-- Model evaluation will use classification metrics appropriate to the churn problem rather than relying on accuracy alone.
-- Features containing information unavailable before the prediction point will be excluded to reduce the risk of data leakage.
-- The final modelling approach will be selected based on empirical performance, interpretability, and suitability for the business objective.
-
-### 6. Dependencies
-
-- The project depends on STADIOchoice providing historical STADIOstream subscription, cancellation, billing, and behavioural data before meaningful modelling can begin.
-- Data integration depends on consistent identifiers and compatible timestamps across the relevant data sources.
-- Churn-target construction depends on having reliable cancellation or subscription-status information.
-- Feature engineering depends on sufficient historical viewing and engagement records being available before each prediction period.
-- Model evaluation depends on having a sufficiently large historical period containing known churn and non-churn outcomes.
-- Business interpretation of the results depends on translating churn predictions and associated risk factors into a retention context.
+| RAAIDD | Description |
+|---|---|
+| Risks | - Class imbalance: If churned subscribers make up a much smaller part of the dataset, a model may favour the larger class and produce misleading results.<br>- Data leakage: Features may unintentionally include information recorded after a subscriber has started the cancellation process, resulting in unrealistically high model performance. |
+| Actions | - Establish a suitable train/validation/test strategy.<br>- Evaluate multiple classification models using relevant performance measures rather than accuracy alone.<br>- Examine important features and how the model behaves to identify factors linked to higher churn risk.<br>- Document assumptions, modelling decisions, limitations, and results throughout the project. |
+| Assumptions | - STADIOchoice can provide enough historical STADIOstream subscriber and behavioural data to create a churn prediction dataset.<br>- A consistent subscriber or household identifier exists across the related streaming, subscription, and billing records.<br>- A clear definition of subscriber churn can be created from cancellation and subscription records. |
+| Issues | - If behavioural logs are sampled or unavailable for important periods, some subscriber activity may not be fully represented.<br>- If the supplied data does not contain a reliable churn outcome, the project may require a changed target definition or smaller scope. |
+| Decisions | - The project will focus specifically on predicting STADIOstream subscriber churn.<br>- Churn prediction will be treated as a classification task.<br>- Model evaluation will use relevant classification measures rather than accuracy alone.<br>- The final modelling approach will be selected based on actual performance, how easy the model is to understand, and its fit with the business goal. |
+| Dependencies | - The project depends on STADIOchoice providing historical STADIOstream subscription, cancellation, billing, and behavioural data before modelling can begin.<br>- Data integration depends on matching identifiers and timestamps across the related data sources.<br>- Creating the churn target depends on having reliable cancellation or subscription status information.<br>- Understanding the results for the business depends on linking churn predictions and related risk factors to customer retention. |
 
 ---
