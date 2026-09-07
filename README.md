@@ -94,7 +94,7 @@ capstone-project/
 
 ---
 
-## Part E – RAAIDD Log
+## Part E - RAAIDD Log
 
 The RAAIDD log below summarises the key Risks, Actions, Assumptions, Issues, Decisions, and Dependencies associated with the development of the STADIOstream subscriber churn prediction project.
 
