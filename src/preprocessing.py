@@ -102,11 +102,11 @@ def load_model_dataset():
 
 
 # Define predictor columns
-
 def get_feature_columns(df):
     excluded_cols = {
         ID_COL,
         TARGET_COL,
+        "split", 
     }
 
     numeric_cols = [
