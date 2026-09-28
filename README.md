@@ -672,19 +672,38 @@ The KKBox experiment provides the technical foundation and documented methodolog
 
 ## 9.1 Environment Setup
 
-The project uses Python and the dependencies listed in `requirements.txt`.
+The project uses Python 3.13.7 and the dependencies pinned in `requirements.txt`.
 
-From the project root, create and activate a virtual environment:
+From the project root, create and activate a virtual environment, then install the dependencies:
 
 ```powershell
-python -m venv .venv
+py -3.13 -m venv .venv
+
 .\.venv\Scripts\Activate.ps1
-python -m pip install -r requirements.txt
+
+python -m pip install -r requirements.txt.
 ```
 
-Ensure that the required KKBox source files have been obtained and placed in the expected local data directory before running the pipeline.
+Verify the Python version and dependency compatibility:
+```powershell
+python --version
 
-The processing scripts require sufficient disk space and system resources for the source data, intermediate files, and generated outputs.
+python -m pip check
+```
+
+The expected Python version is 3.13.7, and `pip check` should report no broken requirements.
+
+## Data Requirements
+
+Before running the pipeline, obtain the required KKBox source files from the KKBox Churn Prediction Challenge and place them in the expected local data directory, following the structure specified in `data/README.md`.
+
+The raw dataset is not included in the repository. Users must obtain it separately, subject to Kaggle's dataset access and usage terms.
+
+## Resource Requirements
+
+The processing scripts use streaming, chunked processing, Parquet files and DuckDB to manage the large dataset. However, processing remains resource-intensive.
+
+Ensure sufficient disk space and system memory for the source data, intermediate files, generated Parquet files, fitted models and experiment outputs. Actual requirements depend on the available hardware and processing configuration.
 
 ## 9.2 Processing and Modelling Pipeline
 
