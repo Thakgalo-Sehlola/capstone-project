@@ -258,3 +258,7 @@ Desktop.ini
 
 # Linux
 *~
+
+# Parquet
+data/kkbox/raw/
+data/kkbox/processed/
