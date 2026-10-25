@@ -198,10 +198,12 @@ __marimo__/
 # CAPSTONE PROJECT — LOCAL DATA
 
 # All datasets remain local during development.
-# Do NOT push raw or processed datasets to GitHub.
+# Do NOT push raw or processed datasets to GitHub except for the STADIOchoice one.
 
 data/*
 !data/README.md
+!data/stadiochoice/
+!data/stadiochoice/**
 
 
 # CAPSTONE PROJECT — LOCAL / GENERATED MODELS

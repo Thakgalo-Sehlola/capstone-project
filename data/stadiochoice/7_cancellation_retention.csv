@@ -1,0 +1,540 @@
+subscriber_id,cancellation_date,cancellation_reason,cancellation_channel,churn_indicator,reactivation_indicator,reactivation_date,retention_interaction_date,retention_offer,offer_accepted,offer_outcome
+SUB001002,2026-04-20 08:09:00,Technical,Retail Store,False,False,,2026-04-17 02:08:22,50% Discount 3 Months,True,Retained
+SUB001004,2025-04-01 16:02:22,Price,Mobile App,True,False,,,None,,Churned
+SUB001005,2026-03-30 21:32:18,Not Given,Mobile App,False,False,,2026-03-29 17:38:31,One Month Free,True,Retained
+SUB001006,2025-11-20 21:13:45,Season Ended,Mobile App,True,False,,2025-11-18 12:41:34,One Month Free,False,Churned
+SUB001013,2026-05-02 22:13:51,Content,Web Self-Service,False,False,,2026-04-29 21:46:00,50% Discount 3 Months,True,Retained
+SUB001015,2026-02-10 10:43:58,Price,Mobile App,True,False,,2026-02-05 01:32:28,20% Discount,False,Churned
+SUB001016,2026-04-26 11:28:03,Content,Mobile App,True,False,,2026-04-25 22:45:29,One Month Free,False,Churned
+SUB001019,2026-05-15 19:22:47,Content,Web Self-Service,True,False,,2026-05-12 19:06:10,20% Discount,False,Churned
+SUB001020,2026-04-23 22:26:20,Competitor,Mobile App,False,False,,2026-04-21 19:30:17,50% Discount 3 Months,True,Retained
+SUB001022,2025-04-04 08:17:04,Not Given,Email,True,False,,2025-03-30 23:18:00,One Month Free,False,Churned
+SUB001027,2025-08-22 20:34:03,Content,Web Self-Service,True,False,,,None,,Churned
+SUB001031,2025-06-11 15:16:41,Price,Call Centre,True,True,2025-07-28 15:16:41,2025-06-06 06:36:32,One Month Free,False,Reactivated Later
+SUB001041,2026-04-29 21:36:05,Price,Mobile App,True,False,,,None,,Churned
+SUB001046,2026-02-17 18:37:29,Content,Mobile App,True,False,,,None,,Churned
+SUB001047,2025-06-19 20:27:43,Financial,Call Centre,False,True,2025-07-22 20:27:43,2025-06-19 06:59:58,Sport Add-on Free,False,Reactivated Later
+SUB001053,2025-11-13 18:31:49,Content,Call Centre,True,False,,2025-11-10 20:04:48,50% Discount 3 Months,False,Churned
+SUB001055,2025-08-31 11:41:54,Season Ended,Call Centre,True,False,,2025-08-31 10:41:51,One Month Free,False,Churned
+SUB001056,2026-01-22 12:51:41,Price,Web Self-Service,False,False,,2026-01-17 23:22:15,50% Discount 3 Months,True,Downgraded
+SUB001060,2026-03-11 15:20:10,Not Using,Mobile App,True,False,,2026-03-06 02:22:37,One Month Free,False,Churned
+SUB001061,2026-01-01 10:03:39,Price,Mobile App,True,False,,2025-12-27 08:57:46,One Month Free,False,Churned
+SUB001064,2025-05-13 20:10:23,Price,Email,True,False,,,None,,Churned
+SUB001071,2026-02-18 12:31:24,Not Using,Web Self-Service,False,False,,2026-02-12 12:47:04,One Month Free,True,Paused
+SUB001072,2025-07-28 21:52:57,Competitor,Mobile App,True,False,,,None,,Churned
+SUB001079,2026-04-12 19:07:26,Financial,Call Centre,True,False,,,None,,Churned
+SUB001081,2025-12-30 19:25:27,Financial,Call Centre,True,False,,,None,,Churned
+SUB001082,2025-08-19 12:13:33,Price,Mobile App,True,False,,2025-08-14 01:39:22,50% Discount 3 Months,False,Churned
+SUB001084,2026-04-28 08:05:56,Price,Web Self-Service,True,False,,2026-04-27 18:43:20,One Month Free,False,Churned
+SUB001085,2026-06-11 20:26:44,Season Ended,Call Centre,True,False,,2026-06-07 15:10:20,Sport Add-on Free,False,Churned
+SUB001088,2025-10-08 18:37:59,Price,Web Self-Service,True,False,,,None,,Churned
+SUB001093,2026-02-05 18:33:04,Price,Call Centre,True,False,,2026-02-03 22:28:31,One Month Free,False,Churned
+SUB001097,2026-02-03 16:14:02,Competitor,Email,True,True,2026-04-26 16:14:02,2026-01-30 09:58:24,20% Discount,False,Reactivated Later
+SUB001098,2026-05-21 17:09:28,Content,Mobile App,False,False,,2026-05-20 01:39:14,Plan Downgrade,True,Paused
+SUB001101,2025-06-20 13:42:14,Price,Call Centre,True,False,,2025-06-17 14:35:29,Plan Downgrade,False,Churned
+SUB001107,2026-02-06 22:36:16,Technical,Call Centre,True,False,,2026-02-01 19:43:06,One Month Free,False,Churned
+SUB001113,2025-05-27 16:35:24,Technical,Mobile App,False,False,,2025-05-26 04:15:53,50% Discount 3 Months,True,Paused
+SUB001117,2026-02-20 18:19:48,Technical,Call Centre,True,False,,2026-02-20 11:14:55,20% Discount,False,Churned
+SUB001119,2025-10-23 14:13:01,Price,Call Centre,True,False,,2025-10-18 11:04:00,One Month Free,False,Churned
+SUB001128,2026-01-17 07:05:43,Price,Email,False,False,,2026-01-11 19:48:28,20% Discount,True,Retained
+SUB001129,2025-07-16 17:46:26,Price,Mobile App,True,True,2025-09-19 17:46:26,2025-07-11 00:14:16,Sport Add-on Free,False,Reactivated Later
+SUB001136,2025-04-29 12:33:18,Not Using,Web Self-Service,False,False,,2025-04-27 20:38:46,Sport Add-on Free,True,Retained
+SUB001140,2025-05-13 19:21:36,Competitor,Mobile App,True,False,,2025-05-12 22:42:24,One Month Free,False,Churned
+SUB001148,2026-03-15 18:31:48,Financial,Call Centre,False,False,,2026-03-12 01:21:37,Plan Downgrade,True,Retained
+SUB001150,2026-05-12 15:36:14,Price,Web Self-Service,False,False,,2026-05-09 14:43:50,50% Discount 3 Months,True,Retained
+SUB001155,2025-12-27 15:59:20,Season Ended,Web Self-Service,True,True,2026-03-14 15:59:20,2025-12-26 23:31:33,One Month Free,False,Reactivated Later
+SUB001158,2026-01-07 07:49:59,Content,Email,False,False,,2026-01-04 22:47:41,Plan Downgrade,True,Retained
+SUB001160,2026-03-09 18:14:06,Content,Mobile App,False,False,,2026-03-06 00:48:22,One Month Free,True,Retained
+SUB001165,2026-04-29 13:58:13,Competitor,Call Centre,True,False,,,None,,Churned
+SUB001172,2026-01-28 16:34:56,Season Ended,Mobile App,True,False,,2026-01-23 09:52:17,Pause Subscription,False,Churned
+SUB001173,2026-03-06 21:47:12,Price,Web Self-Service,True,False,,,None,,Churned
+SUB001176,2026-05-11 20:47:40,Financial,Retail Store,True,False,,,None,,Churned
+SUB001182,2026-02-12 21:52:36,Season Ended,Call Centre,True,False,,2026-02-10 09:25:52,Pause Subscription,False,Churned
+SUB001183,2026-06-04 10:41:54,Season Ended,Email,True,False,,2026-06-04 09:32:18,One Month Free,False,Churned
+SUB001184,2026-03-14 12:22:23,Technical,Mobile App,True,False,,2026-03-12 13:03:38,Sport Add-on Free,False,Churned
+SUB001187,2025-11-18 08:36:28,Competitor,Mobile App,False,False,,2025-11-17 17:35:12,Sport Add-on Free,True,Retained
+SUB001189,2026-01-18 07:56:10,Content,Email,True,True,2026-05-22 07:56:10,2026-01-15 19:43:35,20% Discount,False,Reactivated Later
+SUB001191,2026-04-09 21:51:52,Price,Web Self-Service,False,False,,2026-04-06 09:14:23,One Month Free,True,Retained
+SUB001192,2026-06-07 18:41:01,Price,Mobile App,False,False,,2026-06-04 19:29:40,One Month Free,True,Downgraded
+SUB001195,2025-06-04 22:31:30,Content,Mobile App,True,False,,2025-05-30 09:04:17,20% Discount,False,Churned
+SUB001198,2025-07-04 18:30:46,Price,Web Self-Service,True,False,,2025-06-30 02:05:57,Plan Downgrade,False,Churned
+SUB001200,2025-01-12 09:42:21,Price,Mobile App,True,False,,2025-01-07 14:05:15,20% Discount,False,Churned
+SUB001202,2026-01-29 09:16:20,Price,Web Self-Service,True,False,,2026-01-26 09:04:56,Plan Downgrade,False,Churned
+SUB001203,2026-04-07 17:32:44,Not Given,Call Centre,True,False,,,None,,Churned
+SUB001206,2025-12-04 20:10:33,Moving,Mobile App,True,False,,,None,,Churned
+SUB001209,2026-04-14 07:19:27,Competitor,Web Self-Service,False,False,,2026-04-11 21:44:00,Sport Add-on Free,True,Retained
+SUB001210,2026-01-19 14:06:02,Price,Web Self-Service,True,False,,,None,,Churned
+SUB001212,2026-02-21 19:09:00,Season Ended,Mobile App,True,False,,2026-02-19 11:49:50,One Month Free,False,Churned
+SUB001216,2025-11-09 22:46:49,Season Ended,Call Centre,True,False,,,None,,Churned
+SUB001217,2025-09-08 19:57:22,Technical,Call Centre,True,True,2025-12-12 19:57:22,2025-09-02 20:58:19,20% Discount,False,Reactivated Later
+SUB001219,2026-02-19 22:17:58,Season Ended,Mobile App,False,False,,2026-02-18 12:16:49,Sport Add-on Free,True,Retained
+SUB001226,2026-02-24 11:02:13,Price,Mobile App,True,False,,2026-02-22 11:47:10,One Month Free,False,Churned
+SUB001229,2025-08-02 15:04:51,Technical,Mobile App,True,False,,2025-07-30 19:04:04,20% Discount,False,Churned
+SUB001232,2026-02-01 13:32:31,Competitor,Web Self-Service,True,False,,,None,,Churned
+SUB001237,2026-05-08 20:45:07,Moving,Mobile App,True,False,,2026-05-05 09:05:20,Sport Add-on Free,False,Churned
+SUB001238,2025-09-24 07:37:05,Price,Web Self-Service,True,False,,2025-09-19 23:33:11,Sport Add-on Free,False,Churned
+SUB001245,2025-11-29 07:40:22,Price,Call Centre,False,False,,2025-11-24 03:20:24,20% Discount,True,Retained
+SUB001249,2026-02-28 22:37:24,Not Using,Call Centre,True,False,,2026-02-26 18:40:16,One Month Free,False,Churned
+SUB001251,2026-06-01 08:05:11,Financial,Mobile App,False,False,,2026-05-31 00:50:12,Sport Add-on Free,True,Retained
+SUB001255,2025-10-15 14:44:51,Content,Web Self-Service,True,False,,2025-10-12 10:35:34,Plan Downgrade,False,Churned
+SUB001257,2025-12-28 14:05:28,Financial,Mobile App,True,False,,,None,,Churned
+SUB001266,2025-03-05 22:22:27,Competitor,Mobile App,True,False,,2025-03-04 17:07:29,Pause Subscription,False,Churned
+SUB001272,2025-10-21 11:11:46,Financial,Web Self-Service,True,False,,2025-10-16 07:32:09,20% Discount,False,Churned
+SUB001275,2026-04-05 11:23:59,Price,Retail Store,False,False,,2026-03-31 17:22:33,Sport Add-on Free,True,Paused
+SUB001280,2026-04-24 14:21:43,Moving,Mobile App,False,False,,2026-04-21 15:39:15,Plan Downgrade,True,Retained
+SUB001282,2026-03-26 11:13:41,Price,Mobile App,True,False,,2026-03-20 16:56:23,50% Discount 3 Months,False,Churned
+SUB001292,2026-04-27 13:49:20,Content,Web Self-Service,True,False,,,None,,Churned
+SUB001295,2025-11-20 12:58:04,Content,Call Centre,True,False,,2025-11-18 02:28:00,One Month Free,False,Churned
+SUB001301,2026-05-30 11:00:32,Content,Call Centre,True,False,,,None,,Churned
+SUB001303,2025-09-20 14:06:07,Technical,Mobile App,True,False,,2025-09-16 21:24:10,20% Discount,False,Churned
+SUB001307,2026-05-28 21:41:14,Financial,Mobile App,True,False,,,None,,Churned
+SUB001315,2025-08-16 14:35:46,Price,Call Centre,True,False,,2025-08-10 17:52:12,20% Discount,False,Churned
+SUB001318,2026-04-30 09:53:36,Financial,Call Centre,True,False,,2026-04-25 14:25:15,One Month Free,False,Churned
+SUB001322,2026-06-15 09:15:52,Price,Call Centre,False,False,,2026-06-09 20:19:05,One Month Free,True,Retained
+SUB001327,2025-02-11 21:00:45,Financial,Web Self-Service,True,False,,,None,,Churned
+SUB001328,2026-05-17 17:42:05,Price,Mobile App,True,False,,,None,,Churned
+SUB001329,2026-05-12 16:19:39,Financial,Mobile App,True,False,,2026-05-11 05:26:34,One Month Free,False,Churned
+SUB001333,2026-02-23 14:10:25,Price,Retail Store,False,False,,2026-02-22 17:55:04,20% Discount,True,Retained
+SUB001337,2026-01-30 12:30:41,Not Using,Call Centre,False,False,,2026-01-25 12:31:59,50% Discount 3 Months,True,Retained
+SUB001353,2026-05-13 07:18:35,Price,Web Self-Service,False,False,,2026-05-12 05:29:28,Plan Downgrade,True,Retained
+SUB001366,2026-02-24 08:19:25,Financial,Web Self-Service,True,False,,,None,,Churned
+SUB001369,2025-11-24 10:53:29,Content,Web Self-Service,True,True,2026-03-11 10:53:29,2025-11-20 11:27:21,One Month Free,False,Reactivated Later
+SUB001371,2026-03-18 09:37:45,Technical,Call Centre,True,False,,2026-03-12 12:14:54,50% Discount 3 Months,False,Churned
+SUB001372,2026-06-04 08:25:59,Content,Call Centre,False,False,,2026-06-03 10:25:44,Plan Downgrade,True,Retained
+SUB001376,2025-07-10 19:15:22,Content,Email,True,False,,,None,,Churned
+SUB001381,2025-12-03 22:10:30,Price,Call Centre,True,False,,2025-11-29 12:27:09,Pause Subscription,False,Churned
+SUB001383,2024-11-08 08:35:16,Not Using,Email,False,False,,2024-11-07 01:09:51,Pause Subscription,True,Paused
+SUB001392,2026-06-05 08:57:25,Price,Web Self-Service,True,False,,,None,,Churned
+SUB001395,2026-04-26 17:54:16,Content,Web Self-Service,True,False,,,None,,Churned
+SUB001396,2026-01-15 09:33:27,Price,Call Centre,False,False,,2026-01-10 20:52:54,20% Discount,True,Downgraded
+SUB001403,2025-12-20 09:45:00,Not Given,Email,True,False,,,None,,Churned
+SUB001404,2026-01-10 12:19:13,Content,Mobile App,True,False,,2026-01-05 19:47:03,One Month Free,False,Churned
+SUB001408,2025-07-25 18:02:13,Price,Call Centre,True,False,,2025-07-20 23:42:37,Sport Add-on Free,False,Churned
+SUB001412,2026-04-28 16:58:58,Price,Mobile App,False,False,,2026-04-22 21:51:51,One Month Free,True,Retained
+SUB001413,2025-09-30 12:19:27,Financial,Mobile App,False,False,,2025-09-29 08:53:18,One Month Free,True,Retained
+SUB001423,2025-12-27 07:54:05,Technical,Web Self-Service,True,False,,,None,,Churned
+SUB001428,2025-08-12 22:11:53,Price,Mobile App,False,False,,2025-08-07 08:10:16,One Month Free,True,Retained
+SUB001432,2025-12-14 16:48:50,Technical,Web Self-Service,True,False,,2025-12-12 02:57:05,Plan Downgrade,False,Churned
+SUB001439,2026-02-13 07:35:44,Price,Email,True,False,,,None,,Churned
+SUB001441,2026-05-11 15:18:53,Competitor,Call Centre,True,False,,2026-05-10 12:33:25,Sport Add-on Free,False,Churned
+SUB001444,2026-05-05 10:07:58,Season Ended,Mobile App,True,False,,,None,,Churned
+SUB001446,2026-03-06 14:21:05,Technical,Call Centre,True,False,,2026-03-02 14:06:22,50% Discount 3 Months,False,Churned
+SUB001447,2026-05-20 17:00:14,Technical,Call Centre,True,False,,,None,,Churned
+SUB001457,2024-10-31 09:31:57,Technical,Call Centre,True,False,,2024-10-27 14:38:09,20% Discount,False,Churned
+SUB001458,2026-05-30 10:46:57,Technical,Email,True,False,,2026-05-24 11:03:51,One Month Free,False,Churned
+SUB001464,2026-01-07 21:33:24,Price,Call Centre,True,False,,2026-01-06 04:59:55,Pause Subscription,False,Churned
+SUB001465,2025-08-24 07:40:10,Content,Mobile App,False,False,,2025-08-21 06:59:46,Plan Downgrade,True,Retained
+SUB001467,2025-11-10 11:00:11,Season Ended,Call Centre,True,True,2026-03-14 11:00:11,2025-11-10 03:29:08,50% Discount 3 Months,False,Reactivated Later
+SUB001479,2025-04-16 18:32:17,Financial,Call Centre,True,False,,2025-04-15 20:33:09,50% Discount 3 Months,False,Churned
+SUB001480,2025-10-05 18:44:40,Content,Email,True,False,,2025-10-03 11:20:11,50% Discount 3 Months,False,Churned
+SUB001482,2025-08-08 13:35:49,Season Ended,Mobile App,True,False,,,None,,Churned
+SUB001485,2026-04-22 10:12:58,Not Using,Call Centre,True,False,,2026-04-20 23:15:18,20% Discount,False,Churned
+SUB001486,2025-12-04 19:19:46,Not Using,Mobile App,True,True,2026-03-08 19:19:46,,None,,Reactivated Later
+SUB001491,2025-06-20 19:29:38,Not Using,Mobile App,True,False,,,None,,Churned
+SUB001496,2025-10-05 17:46:43,Season Ended,Mobile App,True,False,,2025-10-04 07:49:05,20% Discount,False,Churned
+SUB001501,2026-05-28 18:24:47,Price,Retail Store,False,False,,2026-05-27 09:33:04,Sport Add-on Free,True,Downgraded
+SUB001511,2026-06-18 21:11:50,Not Given,Mobile App,True,False,,2026-06-17 20:12:21,50% Discount 3 Months,False,Churned
+SUB001515,2026-05-21 13:49:04,Competitor,Mobile App,False,False,,2026-05-17 22:09:20,Plan Downgrade,True,Paused
+SUB001517,2025-12-04 22:59:51,Technical,Call Centre,True,False,,2025-12-02 01:28:03,50% Discount 3 Months,False,Churned
+SUB001518,2026-02-05 16:45:55,Content,Call Centre,False,False,,2026-02-02 15:48:58,50% Discount 3 Months,True,Downgraded
+SUB001519,2025-12-29 18:44:15,Season Ended,Mobile App,True,False,,2025-12-28 20:03:44,20% Discount,False,Churned
+SUB001523,2026-01-16 20:38:59,Financial,Web Self-Service,False,False,,2026-01-12 06:30:56,Pause Subscription,True,Downgraded
+SUB001526,2025-02-27 12:39:15,Competitor,Email,True,False,,,None,,Churned
+SUB001528,2026-05-11 18:45:25,Price,Web Self-Service,False,False,,2026-05-07 22:00:02,50% Discount 3 Months,True,Retained
+SUB001531,2026-05-26 18:20:08,Price,Email,False,True,2026-06-18 18:20:08,2026-05-25 04:17:09,Sport Add-on Free,False,Reactivated Later
+SUB001535,2025-10-15 17:01:54,Season Ended,Call Centre,True,False,,2025-10-13 11:17:51,20% Discount,False,Churned
+SUB001538,2025-05-19 19:15:11,Price,Web Self-Service,True,False,,2025-05-17 03:08:00,20% Discount,False,Churned
+SUB001540,2025-05-23 18:30:59,Moving,Web Self-Service,True,True,2025-06-26 18:30:59,,None,,Reactivated Later
+SUB001549,2025-10-19 17:16:12,Content,Web Self-Service,True,False,,2025-10-18 10:56:58,Plan Downgrade,False,Churned
+SUB001553,2025-12-14 08:24:25,Price,Email,True,False,,,None,,Churned
+SUB001556,2026-04-07 15:53:04,Season Ended,Call Centre,True,False,,2026-04-06 13:42:35,20% Discount,False,Churned
+SUB001557,2026-05-18 20:24:46,Competitor,Call Centre,True,False,,2026-05-17 04:57:51,20% Discount,False,Churned
+SUB001559,2026-06-09 13:22:47,Price,Web Self-Service,True,False,,,None,,Churned
+SUB001562,2025-12-24 15:43:10,Technical,Call Centre,True,False,,,None,,Churned
+SUB001563,2026-02-10 10:42:56,Not Given,Call Centre,True,False,,2026-02-08 23:39:27,Sport Add-on Free,False,Churned
+SUB001564,2025-11-18 21:42:21,Price,Web Self-Service,True,False,,,None,,Churned
+SUB001569,2026-05-31 19:10:20,Price,Call Centre,False,False,,2026-05-30 08:25:12,One Month Free,True,Downgraded
+SUB001578,2026-05-01 08:08:31,Moving,Mobile App,False,False,,2026-04-30 18:15:35,One Month Free,True,Retained
+SUB001581,2026-02-20 09:26:30,Price,Mobile App,True,True,2026-06-27 09:26:30,2026-02-15 17:20:44,50% Discount 3 Months,False,Reactivated Later
+SUB001585,2025-06-28 17:05:12,Not Using,Call Centre,False,False,,2025-06-27 12:04:42,20% Discount,True,Retained
+SUB001587,2026-04-23 15:20:43,Competitor,Mobile App,False,False,,2026-04-17 18:50:04,Pause Subscription,True,Retained
+SUB001588,2026-04-01 15:23:27,Price,Mobile App,True,False,,2026-03-27 16:00:49,20% Discount,False,Churned
+SUB001597,2026-01-05 07:37:40,Price,Web Self-Service,False,False,,2026-01-03 14:11:04,Plan Downgrade,True,Retained
+SUB001606,2025-09-05 09:45:28,Content,Mobile App,True,True,2026-01-09 09:45:28,2025-08-31 12:46:57,20% Discount,False,Reactivated Later
+SUB001609,2026-02-15 18:03:00,Competitor,Mobile App,True,True,2026-06-17 18:03:00,2026-02-13 01:20:31,One Month Free,False,Reactivated Later
+SUB001618,2026-04-21 17:13:58,Season Ended,Call Centre,True,False,,,None,,Churned
+SUB001620,2025-11-08 15:51:09,Competitor,Mobile App,True,False,,2025-11-03 20:51:42,One Month Free,False,Churned
+SUB001625,2026-04-22 14:21:20,Technical,Call Centre,True,False,,,None,,Churned
+SUB001626,2026-06-23 17:50:02,Competitor,Mobile App,False,False,,2026-06-21 10:44:08,One Month Free,True,Retained
+SUB001630,2025-07-15 11:37:38,Price,Retail Store,True,False,,,None,,Churned
+SUB001633,2026-03-21 20:42:48,Price,Mobile App,False,False,,2026-03-18 17:44:54,Plan Downgrade,True,Retained
+SUB001635,2026-01-04 15:43:26,Content,Mobile App,True,False,,,None,,Churned
+SUB001641,2025-06-15 21:26:38,Not Using,Mobile App,False,False,,2025-06-12 07:30:42,50% Discount 3 Months,True,Retained
+SUB001643,2026-03-31 19:16:52,Financial,Call Centre,False,False,,2026-03-28 06:57:33,One Month Free,True,Downgraded
+SUB001650,2026-01-07 21:02:13,Price,Call Centre,False,False,,2026-01-06 19:44:51,20% Discount,True,Downgraded
+SUB001657,2025-11-29 21:57:58,Price,Web Self-Service,True,False,,2025-11-26 06:26:41,One Month Free,False,Churned
+SUB001658,2026-05-13 19:47:55,Not Using,Call Centre,True,False,,2026-05-13 18:48:04,50% Discount 3 Months,False,Churned
+SUB001664,2026-05-16 21:13:08,Content,Web Self-Service,False,False,,2026-05-13 04:22:27,Sport Add-on Free,True,Paused
+SUB001666,2025-08-04 10:09:32,Moving,Mobile App,False,False,,2025-07-31 03:23:05,50% Discount 3 Months,True,Downgraded
+SUB001674,2026-05-19 12:04:58,Technical,Mobile App,True,False,,2026-05-17 07:06:29,20% Discount,False,Churned
+SUB001675,2026-02-08 16:25:08,Not Using,Mobile App,False,False,,2026-02-07 03:34:36,Sport Add-on Free,True,Downgraded
+SUB001682,2025-11-07 07:13:29,Price,Retail Store,False,False,,2025-11-06 18:10:56,20% Discount,True,Paused
+SUB001683,2025-05-20 14:40:14,Financial,Mobile App,False,False,,2025-05-18 14:48:24,Plan Downgrade,True,Paused
+SUB001686,2025-11-25 10:15:22,Financial,Mobile App,True,False,,2025-11-23 20:29:19,Pause Subscription,False,Churned
+SUB001689,2026-05-26 17:47:22,Price,Mobile App,True,False,,,None,,Churned
+SUB001697,2025-01-13 08:45:14,Price,Web Self-Service,True,False,,2025-01-12 06:37:51,50% Discount 3 Months,False,Churned
+SUB001698,2026-04-15 14:43:48,Competitor,Mobile App,True,False,,,None,,Churned
+SUB001700,2025-10-11 16:49:04,Price,Email,False,True,2025-12-03 16:49:04,2025-10-06 07:46:29,One Month Free,False,Reactivated Later
+SUB001705,2025-07-27 22:48:26,Price,Mobile App,True,False,,,None,,Churned
+SUB001706,2026-04-09 07:15:05,Price,Web Self-Service,True,False,,2026-04-03 20:08:40,Pause Subscription,False,Churned
+SUB001708,2026-01-30 11:24:51,Season Ended,Call Centre,False,False,,2026-01-29 09:42:01,Plan Downgrade,True,Retained
+SUB001709,2026-01-31 09:45:38,Content,Web Self-Service,True,False,,,None,,Churned
+SUB001710,2026-04-14 20:15:14,Financial,Call Centre,True,False,,,None,,Churned
+SUB001720,2026-05-20 13:19:53,Moving,Call Centre,True,False,,2026-05-15 15:47:57,20% Discount,False,Churned
+SUB001721,2025-08-10 08:16:23,Technical,Retail Store,True,False,,,None,,Churned
+SUB001723,2026-05-19 16:28:41,Technical,Mobile App,True,False,,2026-05-18 02:39:06,20% Discount,False,Churned
+SUB001724,2026-06-05 09:02:14,Financial,Call Centre,True,False,,,None,,Churned
+SUB001726,2026-03-12 09:36:54,Financial,Mobile App,True,False,,2026-03-07 16:54:25,Plan Downgrade,False,Churned
+SUB001733,2026-03-16 10:16:31,Not Using,Web Self-Service,True,False,,,None,,Churned
+SUB001739,2025-04-10 12:09:06,Financial,Web Self-Service,True,False,,2025-04-07 21:47:36,Pause Subscription,False,Churned
+SUB001742,2025-12-27 21:32:56,Financial,Email,False,False,,2025-12-22 20:22:37,One Month Free,True,Retained
+SUB001743,2026-04-26 09:04:09,Content,Mobile App,True,False,,2026-04-23 21:19:55,50% Discount 3 Months,False,Churned
+SUB001745,2026-03-15 16:21:41,Season Ended,Call Centre,True,False,,,None,,Churned
+SUB001748,2026-01-21 08:02:37,Technical,Retail Store,True,False,,2026-01-21 03:18:17,50% Discount 3 Months,False,Churned
+SUB001750,2025-02-18 10:48:07,Content,Mobile App,True,False,,,None,,Churned
+SUB001751,2025-12-26 21:59:50,Moving,Web Self-Service,False,False,,2025-12-25 07:00:45,Sport Add-on Free,True,Retained
+SUB001753,2026-02-03 09:18:44,Price,Email,False,False,,2026-02-01 18:13:17,20% Discount,True,Downgraded
+SUB001754,2026-02-09 17:45:08,Price,Web Self-Service,True,False,,2026-02-04 10:16:48,Plan Downgrade,False,Churned
+SUB001760,2026-01-29 19:33:54,Not Given,Retail Store,True,False,,2026-01-25 17:20:09,20% Discount,False,Churned
+SUB001761,2025-12-23 16:04:05,Competitor,Call Centre,False,False,,2025-12-21 12:42:27,Pause Subscription,True,Retained
+SUB001763,2026-02-25 07:32:55,Not Using,Mobile App,False,False,,2026-02-23 15:47:53,One Month Free,True,Downgraded
+SUB001772,2025-03-27 22:25:57,Price,Web Self-Service,False,False,,2025-03-24 22:09:20,One Month Free,True,Retained
+SUB001779,2026-06-06 18:22:10,Price,Web Self-Service,False,False,,2026-06-05 08:04:36,One Month Free,True,Downgraded
+SUB001792,2026-02-11 21:52:40,Season Ended,Mobile App,True,False,,2026-02-06 12:16:17,One Month Free,False,Churned
+SUB001794,2025-07-16 21:05:44,Content,Mobile App,True,False,,2025-07-16 17:11:06,Sport Add-on Free,False,Churned
+SUB001797,2026-05-31 08:24:56,Price,Mobile App,False,False,,2026-05-25 14:24:09,20% Discount,True,Retained
+SUB001798,2026-06-08 20:28:12,Not Using,Call Centre,True,False,,,None,,Churned
+SUB001804,2026-01-17 07:33:57,Price,Mobile App,True,False,,2026-01-16 18:53:35,50% Discount 3 Months,False,Churned
+SUB001806,2026-01-09 08:03:57,Technical,Web Self-Service,False,True,2026-02-25 08:03:57,,None,,Reactivated Later
+SUB001808,2026-04-28 12:07:12,Season Ended,Call Centre,False,False,,2026-04-26 08:55:01,Sport Add-on Free,True,Retained
+SUB001810,2026-04-01 18:41:46,Technical,Email,False,False,,2026-03-30 20:59:13,Plan Downgrade,True,Retained
+SUB001817,2026-02-15 13:12:52,Content,Call Centre,True,False,,2026-02-15 03:27:50,One Month Free,False,Churned
+SUB001820,2026-02-21 13:31:43,Technical,Call Centre,False,False,,2026-02-15 19:41:02,20% Discount,True,Retained
+SUB001821,2026-04-16 11:29:13,Content,Call Centre,True,False,,2026-04-15 00:55:44,One Month Free,False,Churned
+SUB001822,2025-12-26 09:26:48,Price,Call Centre,True,False,,2025-12-24 23:02:19,20% Discount,False,Churned
+SUB001829,2025-10-29 17:08:53,Competitor,Web Self-Service,False,False,,2025-10-26 20:06:04,20% Discount,True,Retained
+SUB001841,2025-12-15 14:51:26,Moving,Mobile App,True,False,,,None,,Churned
+SUB001845,2026-05-02 12:02:20,Content,Web Self-Service,True,False,,,None,,Churned
+SUB001847,2025-11-26 19:07:35,Season Ended,Mobile App,True,False,,2025-11-20 20:43:54,Plan Downgrade,False,Churned
+SUB001848,2026-04-29 14:13:36,Technical,Mobile App,False,False,,2026-04-23 21:15:29,20% Discount,True,Retained
+SUB001851,2026-01-05 18:31:12,Moving,Web Self-Service,True,False,,2026-01-01 16:05:18,20% Discount,False,Churned
+SUB001859,2025-05-16 14:10:47,Competitor,Mobile App,True,False,,2025-05-15 16:00:54,50% Discount 3 Months,False,Churned
+SUB001872,2026-03-26 19:49:41,Price,Email,False,False,,2026-03-21 05:54:39,20% Discount,True,Downgraded
+SUB001875,2026-05-01 09:17:13,Price,Mobile App,True,False,,2026-04-28 06:39:43,One Month Free,False,Churned
+SUB001886,2026-02-24 10:28:52,Content,Mobile App,True,False,,,None,,Churned
+SUB001887,2025-06-20 15:29:55,Financial,Mobile App,False,False,,2025-06-19 20:09:54,Plan Downgrade,True,Retained
+SUB001890,2025-12-06 18:04:50,Price,Mobile App,False,False,,2025-12-02 23:21:17,One Month Free,True,Downgraded
+SUB001894,2026-04-14 09:37:16,Price,Web Self-Service,True,False,,2026-04-13 16:09:08,Plan Downgrade,False,Churned
+SUB001895,2025-12-23 22:32:31,Not Using,Web Self-Service,True,False,,2025-12-22 00:02:45,20% Discount,False,Churned
+SUB001896,2026-04-21 09:41:23,Not Using,Web Self-Service,False,False,,2026-04-15 13:59:57,Plan Downgrade,True,Retained
+SUB001898,2025-07-27 08:53:38,Not Using,Mobile App,True,False,,2025-07-23 10:42:43,50% Discount 3 Months,False,Churned
+SUB001900,2025-08-08 09:07:16,Not Using,Email,True,False,,,None,,Churned
+SUB001902,2026-01-15 20:04:04,Not Using,Email,True,False,,2026-01-15 06:56:18,One Month Free,False,Churned
+SUB001903,2026-02-06 09:16:40,Technical,Web Self-Service,True,False,,,None,,Churned
+SUB001907,2026-04-12 18:43:40,Season Ended,Mobile App,False,False,,2026-04-11 07:32:18,Pause Subscription,True,Retained
+SUB001916,2025-05-05 17:08:25,Financial,Call Centre,True,False,,,None,,Churned
+SUB001921,2025-11-07 13:49:45,Price,Web Self-Service,True,False,,2025-11-07 11:53:50,20% Discount,False,Churned
+SUB001924,2025-03-09 08:31:45,Technical,Call Centre,False,False,,2025-03-05 12:53:51,20% Discount,True,Downgraded
+SUB001925,2024-12-03 21:14:41,Competitor,Email,True,False,,2024-12-03 12:04:39,50% Discount 3 Months,False,Churned
+SUB001928,2026-05-10 11:34:09,Season Ended,Web Self-Service,False,False,,2026-05-07 00:47:12,50% Discount 3 Months,True,Retained
+SUB001935,2025-07-29 07:53:16,Technical,Mobile App,True,False,,2025-07-25 13:29:49,One Month Free,False,Churned
+SUB001936,2026-03-09 21:17:22,Technical,Email,False,False,,2026-03-08 05:52:21,Pause Subscription,True,Retained
+SUB001938,2025-07-12 17:47:15,Financial,Call Centre,True,False,,,None,,Churned
+SUB001939,2025-08-04 20:39:30,Price,Web Self-Service,True,False,,2025-08-04 18:27:05,Pause Subscription,False,Churned
+SUB001944,2026-06-09 21:13:58,Content,Mobile App,True,False,,2026-06-04 21:36:45,Sport Add-on Free,False,Churned
+SUB001947,2026-06-17 07:43:50,Competitor,Call Centre,True,False,,2026-06-13 18:28:53,20% Discount,False,Churned
+SUB001965,2025-11-22 19:21:01,Technical,Mobile App,True,False,,,None,,Churned
+SUB001973,2026-03-22 07:05:56,Price,Web Self-Service,True,False,,,None,,Churned
+SUB001978,2026-02-28 14:09:26,Content,Mobile App,True,False,,,None,,Churned
+SUB001981,2025-09-07 10:02:10,Not Given,Mobile App,True,True,2025-12-31 10:02:10,2025-09-03 09:53:34,Plan Downgrade,False,Reactivated Later
+SUB001989,2026-03-12 14:18:10,Price,Email,False,False,,2026-03-10 15:58:33,Plan Downgrade,True,Downgraded
+SUB001995,2025-08-18 18:43:29,Not Using,Call Centre,True,False,,2025-08-14 05:07:45,20% Discount,False,Churned
+SUB001998,2025-12-30 09:29:47,Season Ended,Call Centre,False,False,,2025-12-24 15:32:14,20% Discount,True,Retained
+SUB002004,2026-06-02 09:17:33,Technical,Email,True,False,,,None,,Churned
+SUB002009,2026-01-16 16:57:03,Competitor,Web Self-Service,True,False,,2026-01-14 20:53:57,Plan Downgrade,False,Churned
+SUB002010,2025-10-31 21:41:06,Not Given,Retail Store,False,False,,2025-10-29 01:06:06,Plan Downgrade,True,Retained
+SUB002013,2025-03-12 16:28:50,Financial,Mobile App,True,False,,2025-03-10 23:40:47,One Month Free,False,Churned
+SUB002026,2026-06-07 07:59:41,Price,Mobile App,False,False,,2026-06-03 03:58:43,20% Discount,True,Retained
+SUB002034,2026-02-13 17:53:54,Technical,Call Centre,False,False,,2026-02-13 02:06:23,Pause Subscription,True,Retained
+SUB002038,2026-05-04 18:01:13,Content,Call Centre,True,False,,2026-05-01 03:31:04,Pause Subscription,False,Churned
+SUB002057,2026-01-09 11:15:05,Technical,Web Self-Service,False,False,,2026-01-05 07:57:18,50% Discount 3 Months,True,Downgraded
+SUB002058,2026-03-26 07:15:06,Content,Mobile App,False,True,2026-04-30 07:15:06,2026-03-22 21:26:34,Plan Downgrade,False,Reactivated Later
+SUB002063,2026-04-16 12:34:19,Not Using,Web Self-Service,False,False,,2026-04-13 09:25:56,Plan Downgrade,True,Retained
+SUB002066,2025-12-17 13:00:33,Not Using,Call Centre,False,False,,2025-12-15 18:35:14,50% Discount 3 Months,True,Retained
+SUB002079,2026-06-15 21:47:20,Competitor,Call Centre,False,False,,2026-06-13 08:20:17,Plan Downgrade,True,Retained
+SUB002082,2026-04-19 10:16:51,Content,Call Centre,True,True,2026-06-30 10:16:51,2026-04-18 15:36:36,One Month Free,False,Reactivated Later
+SUB002085,2025-12-03 14:05:13,Price,Web Self-Service,True,False,,2025-12-01 16:21:53,20% Discount,False,Churned
+SUB002090,2026-01-25 22:04:19,Content,Mobile App,True,False,,2026-01-20 07:36:17,One Month Free,False,Churned
+SUB002091,2025-06-20 15:39:17,Price,Call Centre,True,False,,,None,,Churned
+SUB002093,2025-12-28 14:22:14,Technical,Call Centre,False,False,,2025-12-23 18:17:12,20% Discount,True,Retained
+SUB002097,2025-03-29 12:31:24,Price,Call Centre,False,False,,2025-03-26 12:54:05,One Month Free,True,Retained
+SUB002098,2025-08-10 07:35:27,Season Ended,Retail Store,True,True,2025-10-28 07:35:27,,None,,Reactivated Later
+SUB002102,2026-05-22 08:00:11,Price,Web Self-Service,False,True,2026-06-13 08:00:11,,None,,Reactivated Later
+SUB002103,2026-03-09 21:28:13,Moving,Web Self-Service,True,False,,2026-03-08 17:05:28,50% Discount 3 Months,False,Churned
+SUB002106,2026-04-06 22:27:57,Technical,Mobile App,True,False,,2026-04-05 05:17:26,50% Discount 3 Months,False,Churned
+SUB002107,2026-04-12 12:02:51,Price,Web Self-Service,True,False,,2026-04-10 01:16:12,Sport Add-on Free,False,Churned
+SUB002113,2026-05-28 20:06:20,Price,Call Centre,True,False,,,None,,Churned
+SUB002114,2026-04-28 07:28:49,Season Ended,Call Centre,False,False,,2026-04-24 20:00:48,Plan Downgrade,True,Retained
+SUB002115,2025-10-26 15:14:02,Content,Web Self-Service,True,False,,,None,,Churned
+SUB002116,2026-03-21 17:10:16,Season Ended,Call Centre,True,False,,2026-03-15 23:45:49,One Month Free,False,Churned
+SUB002118,2026-04-01 19:08:22,Technical,Mobile App,True,False,,2026-03-28 12:56:31,Pause Subscription,False,Churned
+SUB002121,2025-05-02 17:09:40,Price,Mobile App,True,False,,,None,,Churned
+SUB002122,2026-05-24 14:19:55,Price,Call Centre,True,False,,2026-05-21 21:55:34,One Month Free,False,Churned
+SUB002135,2025-10-04 17:47:12,Technical,Mobile App,True,False,,2025-09-29 23:56:19,One Month Free,False,Churned
+SUB002138,2025-03-18 14:48:14,Price,Email,False,False,,2025-03-15 19:53:52,Plan Downgrade,True,Downgraded
+SUB002139,2026-01-04 10:20:47,Season Ended,Mobile App,True,False,,,None,,Churned
+SUB002143,2025-07-03 22:37:13,Technical,Web Self-Service,True,False,,,None,,Churned
+SUB002148,2026-04-11 12:06:02,Content,Web Self-Service,False,False,,2026-04-08 01:17:26,20% Discount,True,Retained
+SUB002155,2025-07-06 17:09:02,Price,Email,True,False,,2025-07-05 20:28:53,20% Discount,False,Churned
+SUB002157,2026-03-18 15:23:43,Content,Mobile App,True,False,,2026-03-15 05:54:36,One Month Free,False,Churned
+SUB002166,2026-01-28 15:49:47,Content,Call Centre,True,False,,2026-01-27 07:48:43,One Month Free,False,Churned
+SUB002172,2026-03-27 13:13:00,Price,Call Centre,True,False,,2026-03-21 21:37:20,20% Discount,False,Churned
+SUB002177,2025-06-23 18:00:53,Season Ended,Email,True,True,2025-09-16 18:00:53,2025-06-23 14:02:00,50% Discount 3 Months,False,Reactivated Later
+SUB002182,2025-03-24 13:32:27,Technical,Web Self-Service,False,False,,2025-03-21 03:56:33,One Month Free,True,Paused
+SUB002183,2025-11-07 19:58:36,Technical,Web Self-Service,True,False,,,None,,Churned
+SUB002184,2026-04-23 17:16:01,Technical,Mobile App,True,False,,2026-04-18 21:40:21,20% Discount,False,Churned
+SUB002185,2025-11-18 16:51:48,Financial,Call Centre,False,False,,2025-11-14 21:30:08,Sport Add-on Free,True,Retained
+SUB002187,2026-02-03 22:58:09,Price,Mobile App,True,False,,2026-01-31 16:36:27,20% Discount,False,Churned
+SUB002191,2026-04-14 13:53:48,Content,Web Self-Service,True,False,,2026-04-13 11:55:32,20% Discount,False,Churned
+SUB002192,2026-05-12 10:57:29,Price,Retail Store,True,False,,2026-05-07 22:51:21,Pause Subscription,False,Churned
+SUB002193,2026-02-18 18:51:45,Season Ended,Web Self-Service,True,True,2026-05-13 18:51:45,,None,,Reactivated Later
+SUB002202,2025-10-23 22:58:59,Price,Call Centre,True,False,,,None,,Churned
+SUB002203,2025-02-07 14:46:07,Financial,Retail Store,True,False,,,None,,Churned
+SUB002214,2026-04-06 17:48:23,Technical,Web Self-Service,False,False,,2026-04-01 02:30:55,50% Discount 3 Months,True,Retained
+SUB002216,2026-02-10 14:03:01,Not Given,Web Self-Service,True,False,,2026-02-07 07:48:27,50% Discount 3 Months,False,Churned
+SUB002218,2025-12-01 18:23:28,Price,Mobile App,True,False,,2025-11-28 09:59:05,50% Discount 3 Months,False,Churned
+SUB002226,2025-12-29 14:51:14,Season Ended,Mobile App,True,True,2026-05-02 14:51:14,2025-12-28 07:46:18,One Month Free,False,Reactivated Later
+SUB002231,2026-03-23 22:56:11,Not Using,Mobile App,True,False,,2026-03-18 18:34:08,50% Discount 3 Months,False,Churned
+SUB002234,2026-01-10 10:19:54,Technical,Call Centre,False,False,,2026-01-08 16:00:23,Sport Add-on Free,True,Retained
+SUB002239,2025-12-16 07:46:00,Not Using,Call Centre,True,False,,2025-12-12 22:37:43,Pause Subscription,False,Churned
+SUB002245,2026-03-28 18:44:56,Price,Web Self-Service,False,False,,2026-03-25 03:28:14,20% Discount,True,Retained
+SUB002247,2026-04-11 12:17:03,Financial,Mobile App,False,False,,2026-04-08 09:08:32,Plan Downgrade,True,Retained
+SUB002249,2026-01-04 09:16:12,Technical,Call Centre,True,False,,2026-01-02 09:36:55,Pause Subscription,False,Churned
+SUB002255,2025-08-25 21:13:30,Price,Mobile App,True,False,,2025-08-25 15:14:23,Sport Add-on Free,False,Churned
+SUB002256,2025-08-30 14:20:19,Technical,Web Self-Service,True,False,,2025-08-27 11:51:32,20% Discount,False,Churned
+SUB002257,2025-12-23 22:02:39,Price,Email,False,False,,2025-12-19 18:56:26,Pause Subscription,True,Retained
+SUB002258,2026-04-22 14:39:21,Financial,Mobile App,True,False,,2026-04-21 00:52:09,Plan Downgrade,False,Churned
+SUB002259,2025-11-20 22:24:10,Price,Mobile App,True,False,,2025-11-20 11:09:33,One Month Free,False,Churned
+SUB002260,2026-05-27 17:06:16,Season Ended,Call Centre,True,False,,2026-05-27 02:47:43,20% Discount,False,Churned
+SUB002261,2025-07-10 17:38:11,Technical,Email,True,False,,2025-07-09 19:56:32,One Month Free,False,Churned
+SUB002265,2026-02-26 07:08:29,Financial,Mobile App,False,False,,2026-02-20 16:14:33,Pause Subscription,True,Retained
+SUB002267,2025-08-11 18:17:31,Technical,Mobile App,True,True,2025-10-05 18:17:31,2025-08-07 14:17:32,Plan Downgrade,False,Reactivated Later
+SUB002271,2026-06-02 14:16:45,Price,Web Self-Service,True,False,,2026-05-30 20:37:46,Plan Downgrade,False,Churned
+SUB002272,2025-05-01 19:03:46,Financial,Call Centre,False,False,,2025-04-30 02:05:59,50% Discount 3 Months,True,Downgraded
+SUB002273,2025-09-18 14:09:02,Price,Web Self-Service,False,False,,2025-09-16 08:54:51,One Month Free,True,Retained
+SUB002279,2026-05-28 14:21:09,Competitor,Call Centre,True,False,,2026-05-24 07:22:42,Plan Downgrade,False,Churned
+SUB002282,2025-08-29 08:41:11,Price,Web Self-Service,False,False,,2025-08-25 00:08:37,One Month Free,True,Retained
+SUB002284,2026-04-26 18:21:48,Season Ended,Web Self-Service,True,True,2026-06-14 18:21:48,2026-04-23 06:31:16,Sport Add-on Free,False,Reactivated Later
+SUB002285,2026-05-21 11:39:12,Content,Web Self-Service,True,False,,2026-05-15 18:57:34,Sport Add-on Free,False,Churned
+SUB002303,2026-02-15 10:52:57,Price,Mobile App,False,False,,2026-02-11 12:36:34,Plan Downgrade,True,Paused
+SUB002304,2026-04-18 18:20:47,Season Ended,Web Self-Service,False,False,,2026-04-14 15:28:12,One Month Free,True,Paused
+SUB002305,2024-11-22 19:42:12,Competitor,Mobile App,True,False,,2024-11-18 20:33:58,20% Discount,False,Churned
+SUB002308,2026-05-21 12:24:39,Technical,Web Self-Service,True,False,,2026-05-19 21:31:38,20% Discount,False,Churned
+SUB002320,2025-07-27 21:35:01,Technical,Mobile App,False,False,,2025-07-24 03:29:08,20% Discount,True,Downgraded
+SUB002323,2025-02-26 20:41:53,Technical,Mobile App,False,False,,2025-02-25 19:10:11,20% Discount,True,Downgraded
+SUB002326,2026-03-15 14:48:02,Technical,Retail Store,False,False,,2026-03-09 21:44:07,50% Discount 3 Months,True,Paused
+SUB002329,2025-12-13 15:54:00,Content,Mobile App,True,False,,2025-12-09 05:02:30,Pause Subscription,False,Churned
+SUB002335,2026-06-18 19:37:17,Price,Retail Store,True,False,,,None,,Churned
+SUB002338,2025-05-08 14:11:57,Price,Web Self-Service,True,False,,,None,,Churned
+SUB002339,2026-02-04 08:52:15,Technical,Email,True,False,,2026-02-03 01:48:36,Sport Add-on Free,False,Churned
+SUB002340,2025-12-14 08:17:09,Not Using,Email,True,True,2026-04-07 08:17:09,,None,,Reactivated Later
+SUB002344,2025-11-07 22:14:02,Price,Call Centre,True,False,,2025-11-03 04:49:38,Sport Add-on Free,False,Churned
+SUB002347,2025-08-13 21:48:55,Season Ended,Mobile App,False,False,,2025-08-10 07:35:07,20% Discount,True,Retained
+SUB002351,2026-02-28 19:28:24,Price,Retail Store,False,False,,2026-02-26 09:03:13,One Month Free,True,Retained
+SUB002353,2026-01-07 21:48:03,Technical,Mobile App,False,True,2026-01-19 21:48:03,2026-01-06 02:35:14,20% Discount,False,Reactivated Later
+SUB002360,2026-01-20 15:15:58,Technical,Web Self-Service,False,False,,2026-01-15 01:33:43,Plan Downgrade,True,Downgraded
+SUB002362,2026-06-08 19:55:53,Technical,Web Self-Service,True,False,,,None,,Churned
+SUB002368,2026-06-07 10:27:45,Technical,Web Self-Service,True,False,,2026-06-06 21:06:13,20% Discount,False,Churned
+SUB002372,2025-08-05 13:25:53,Financial,Mobile App,True,True,2025-10-05 13:25:53,,None,,Reactivated Later
+SUB002374,2026-05-09 20:58:00,Technical,Call Centre,True,False,,2026-05-07 21:56:57,One Month Free,False,Churned
+SUB002380,2026-06-23 15:08:18,Technical,Mobile App,True,False,,2026-06-22 15:44:24,20% Discount,False,Churned
+SUB002382,2026-04-06 09:28:58,Season Ended,Retail Store,True,False,,2026-04-02 02:37:02,One Month Free,False,Churned
+SUB002384,2026-02-21 18:46:48,Content,Call Centre,True,False,,2026-02-16 05:55:25,20% Discount,False,Churned
+SUB002386,2025-12-20 14:09:34,Not Using,Retail Store,True,False,,2025-12-17 17:44:29,One Month Free,False,Churned
+SUB002387,2026-05-12 15:16:16,Competitor,Web Self-Service,True,False,,2026-05-06 19:26:19,One Month Free,False,Churned
+SUB002392,2026-03-01 21:49:32,Season Ended,Mobile App,True,False,,2026-03-01 07:14:13,20% Discount,False,Churned
+SUB002397,2026-01-28 13:20:10,Financial,Web Self-Service,True,False,,,None,,Churned
+SUB002398,2026-01-20 18:54:49,Financial,Email,True,False,,2026-01-15 18:51:27,50% Discount 3 Months,False,Churned
+SUB002400,2025-05-26 11:07:35,Content,Mobile App,False,False,,2025-05-21 19:22:31,50% Discount 3 Months,True,Downgraded
+SUB002401,2026-03-11 14:59:48,Competitor,Mobile App,False,False,,2026-03-07 01:32:17,Sport Add-on Free,True,Retained
+SUB002403,2026-05-04 20:12:09,Technical,Web Self-Service,True,False,,2026-04-30 12:06:16,50% Discount 3 Months,False,Churned
+SUB002406,2026-06-10 07:59:45,Price,Email,True,False,,,None,,Churned
+SUB002411,2026-04-15 09:54:45,Season Ended,Call Centre,False,False,,2026-04-09 14:28:32,Plan Downgrade,True,Retained
+SUB002413,2026-05-31 10:24:33,Technical,Mobile App,False,False,,2026-05-27 14:21:10,One Month Free,True,Retained
+SUB002417,2025-10-14 13:09:48,Price,Mobile App,True,False,,2025-10-08 17:41:36,Plan Downgrade,False,Churned
+SUB002418,2026-01-30 14:54:58,Not Given,Mobile App,False,False,,2026-01-26 12:39:17,One Month Free,True,Paused
+SUB002419,2026-02-20 19:09:41,Financial,Web Self-Service,True,False,,,None,,Churned
+SUB002433,2025-10-04 13:08:36,Not Using,Web Self-Service,False,False,,2025-09-30 11:13:10,Sport Add-on Free,True,Retained
+SUB002434,2026-03-23 18:55:44,Competitor,Mobile App,True,False,,2026-03-22 15:14:14,Sport Add-on Free,False,Churned
+SUB002439,2026-03-31 10:14:06,Technical,Mobile App,False,False,,2026-03-25 19:51:07,50% Discount 3 Months,True,Retained
+SUB002449,2025-05-31 20:53:56,Financial,Mobile App,False,True,2025-07-03 20:53:56,2025-05-27 02:42:44,Sport Add-on Free,False,Reactivated Later
+SUB002457,2025-11-11 18:01:49,Price,Web Self-Service,False,False,,2025-11-06 12:26:52,Sport Add-on Free,True,Retained
+SUB002459,2025-11-05 16:22:19,Content,Mobile App,False,False,,2025-11-01 17:40:38,One Month Free,True,Retained
+SUB002462,2026-04-13 13:35:44,Price,Web Self-Service,True,False,,,None,,Churned
+SUB002468,2025-05-16 08:08:08,Not Given,Call Centre,False,False,,2025-05-12 03:48:15,20% Discount,True,Downgraded
+SUB002472,2025-08-15 15:33:12,Price,Call Centre,True,False,,,None,,Churned
+SUB002475,2026-03-20 10:05:47,Financial,Mobile App,True,False,,2026-03-19 16:48:36,One Month Free,False,Churned
+SUB002477,2026-01-30 16:40:01,Price,Call Centre,False,False,,2026-01-27 06:13:38,50% Discount 3 Months,True,Retained
+SUB002479,2026-05-29 10:59:18,Competitor,Call Centre,False,False,,2026-05-25 14:53:53,Plan Downgrade,True,Paused
+SUB002480,2025-10-26 13:59:35,Price,Mobile App,True,False,,,None,,Churned
+SUB002485,2026-05-04 20:08:06,Not Given,Mobile App,False,False,,2026-04-29 02:37:00,20% Discount,True,Retained
+SUB002495,2025-12-22 12:04:33,Price,Mobile App,False,False,,2025-12-22 01:20:55,One Month Free,True,Retained
+SUB002497,2025-11-21 11:13:13,Price,Call Centre,True,False,,,None,,Churned
+SUB002498,2025-12-04 16:48:52,Financial,Mobile App,True,False,,,None,,Churned
+SUB002503,2026-03-07 14:29:44,Content,Mobile App,True,True,2026-06-15 14:29:44,2026-03-06 15:12:10,Plan Downgrade,False,Reactivated Later
+SUB002505,2026-02-20 07:57:09,Price,Email,True,False,,,None,,Churned
+SUB002507,2025-11-17 07:21:25,Financial,Mobile App,True,True,2026-02-17 07:21:25,2025-11-16 10:14:49,One Month Free,False,Reactivated Later
+SUB002511,2026-05-31 19:45:04,Financial,Mobile App,False,False,,2026-05-29 12:30:11,50% Discount 3 Months,True,Downgraded
+SUB002514,2026-04-01 07:01:39,Content,Call Centre,True,False,,2026-03-31 01:03:53,Pause Subscription,False,Churned
+SUB002517,2026-02-09 16:42:24,Season Ended,Mobile App,False,False,,2026-02-07 04:46:51,One Month Free,True,Retained
+SUB002522,2026-05-21 22:41:54,Not Using,Call Centre,True,False,,,None,,Churned
+SUB002525,2025-10-28 14:45:16,Price,Mobile App,True,False,,2025-10-26 10:07:36,One Month Free,False,Churned
+SUB002528,2026-04-03 15:20:21,Financial,Mobile App,True,False,,,None,,Churned
+SUB002529,2025-09-18 22:32:48,Content,Mobile App,True,False,,2025-09-18 15:11:00,One Month Free,False,Churned
+SUB002531,2026-04-04 10:07:38,Price,Mobile App,True,False,,,None,,Churned
+SUB002535,2026-03-08 08:52:58,Financial,Web Self-Service,True,False,,,None,,Churned
+SUB002547,2025-10-01 09:11:51,Financial,Call Centre,True,False,,2025-09-26 19:00:09,Plan Downgrade,False,Churned
+SUB002555,2025-09-11 13:52:28,Not Using,Web Self-Service,True,False,,2025-09-09 12:38:58,Plan Downgrade,False,Churned
+SUB002560,2026-02-28 21:48:38,Technical,Mobile App,True,False,,,None,,Churned
+SUB002565,2026-03-23 09:57:43,Price,Mobile App,False,False,,2026-03-21 21:22:54,Plan Downgrade,True,Retained
+SUB002572,2026-05-27 19:03:47,Technical,Call Centre,True,False,,2026-05-22 13:06:18,Pause Subscription,False,Churned
+SUB002578,2025-07-03 17:02:59,Technical,Web Self-Service,True,False,,2025-06-29 11:37:09,One Month Free,False,Churned
+SUB002583,2026-05-07 16:10:39,Content,Web Self-Service,False,False,,2026-05-05 16:24:12,20% Discount,True,Downgraded
+SUB002584,2026-03-08 15:11:32,Technical,Web Self-Service,True,False,,2026-03-05 15:49:33,20% Discount,False,Churned
+SUB002585,2025-09-19 12:57:09,Content,Web Self-Service,False,False,,2025-09-16 15:29:19,50% Discount 3 Months,True,Retained
+SUB002588,2026-03-14 07:41:14,Not Using,Web Self-Service,True,False,,,None,,Churned
+SUB002589,2026-01-26 08:33:24,Financial,Email,True,False,,2026-01-23 10:20:30,Pause Subscription,False,Churned
+SUB002592,2026-05-04 22:47:59,Price,Web Self-Service,True,False,,2026-05-03 04:45:15,20% Discount,False,Churned
+SUB002593,2025-08-14 19:57:16,Financial,Mobile App,True,False,,,None,,Churned
+SUB002597,2026-04-26 20:08:19,Technical,Mobile App,False,False,,2026-04-21 14:57:22,Pause Subscription,True,Retained
+SUB002605,2026-03-19 15:58:31,Financial,Mobile App,True,False,,,None,,Churned
+SUB002610,2026-03-05 14:13:56,Technical,Web Self-Service,True,True,2026-05-20 14:13:56,2026-03-05 02:08:03,Plan Downgrade,False,Reactivated Later
+SUB002616,2026-04-12 07:09:14,Financial,Web Self-Service,True,False,,2026-04-08 20:27:39,Plan Downgrade,False,Churned
+SUB002618,2026-03-18 17:09:02,Season Ended,Email,True,False,,,None,,Churned
+SUB002619,2026-04-22 22:15:29,Content,Call Centre,True,False,,2026-04-21 01:44:34,One Month Free,False,Churned
+SUB002621,2026-04-17 07:38:00,Competitor,Mobile App,False,False,,2026-04-12 01:12:57,One Month Free,True,Downgraded
+SUB002625,2026-04-03 21:59:51,Season Ended,Mobile App,True,False,,2026-03-31 23:46:21,50% Discount 3 Months,False,Churned
+SUB002628,2026-04-12 20:20:53,Not Given,Web Self-Service,True,False,,2026-04-12 08:55:18,20% Discount,False,Churned
+SUB002630,2025-09-02 10:35:53,Technical,Web Self-Service,True,False,,,None,,Churned
+SUB002633,2026-05-31 14:49:41,Competitor,Web Self-Service,True,False,,,None,,Churned
+SUB002634,2026-04-11 15:42:28,Content,Mobile App,True,False,,2026-04-07 12:49:02,One Month Free,False,Churned
+SUB002637,2026-03-21 12:26:50,Price,Call Centre,True,False,,2026-03-17 02:54:35,20% Discount,False,Churned
+SUB002638,2026-06-14 14:18:00,Content,Call Centre,True,False,,,None,,Churned
+SUB002643,2026-04-26 08:05:15,Competitor,Web Self-Service,True,False,,,None,,Churned
+SUB002648,2026-05-06 16:55:50,Season Ended,Web Self-Service,True,False,,,None,,Churned
+SUB002651,2025-10-04 16:06:06,Technical,Web Self-Service,True,False,,2025-10-03 20:38:22,Pause Subscription,False,Churned
+SUB002652,2026-03-31 19:10:21,Price,Mobile App,True,False,,2026-03-31 07:32:59,20% Discount,False,Churned
+SUB002654,2025-09-08 11:26:10,Price,Mobile App,False,False,,2025-09-03 14:17:11,Sport Add-on Free,True,Retained
+SUB002656,2026-03-31 15:34:52,Price,Web Self-Service,True,False,,,None,,Churned
+SUB002657,2026-02-06 16:56:08,Financial,Web Self-Service,True,False,,2026-02-03 18:13:31,Sport Add-on Free,False,Churned
+SUB002671,2026-01-15 15:45:22,Technical,Mobile App,False,False,,2026-01-12 01:39:00,20% Discount,True,Retained
+SUB002672,2026-02-15 22:02:46,Technical,Mobile App,True,False,,,None,,Churned
+SUB002676,2026-01-15 15:34:18,Price,Mobile App,True,False,,2026-01-15 09:50:34,One Month Free,False,Churned
+SUB002679,2025-11-22 12:13:20,Content,Retail Store,False,False,,2025-11-18 03:49:31,One Month Free,True,Retained
+SUB002692,2026-02-17 18:37:46,Season Ended,Web Self-Service,True,False,,,None,,Churned
+SUB002707,2026-05-27 09:19:15,Financial,Mobile App,True,False,,2026-05-25 09:41:46,Sport Add-on Free,False,Churned
+SUB002713,2025-12-14 17:34:51,Price,Web Self-Service,True,False,,,None,,Churned
+SUB002716,2026-03-31 11:34:42,Not Using,Call Centre,False,True,2026-04-30 11:34:42,2026-03-30 23:07:18,Plan Downgrade,False,Reactivated Later
+SUB002717,2026-05-19 14:21:25,Content,Web Self-Service,False,False,,2026-05-16 20:44:21,One Month Free,True,Retained
+SUB002721,2026-05-26 11:38:02,Content,Mobile App,False,False,,2026-05-24 16:00:30,Sport Add-on Free,True,Downgraded
+SUB002723,2026-05-18 16:45:31,Price,Email,True,False,,,None,,Churned
+SUB002725,2026-05-20 13:02:32,Technical,Mobile App,True,False,,2026-05-19 20:07:12,Plan Downgrade,False,Churned
+SUB002726,2026-03-25 18:50:54,Technical,Call Centre,True,False,,2026-03-22 07:25:32,Plan Downgrade,False,Churned
+SUB002732,2026-04-10 21:46:45,Competitor,Call Centre,False,False,,2026-04-07 12:15:37,Sport Add-on Free,True,Paused
+SUB002743,2025-11-25 20:25:26,Season Ended,Call Centre,True,False,,2025-11-24 13:06:15,One Month Free,False,Churned
+SUB002746,2026-04-24 21:42:40,Content,Mobile App,True,False,,2026-04-21 00:20:36,20% Discount,False,Churned
+SUB002751,2025-12-14 20:50:26,Price,Mobile App,True,True,2026-04-20 20:50:26,2025-12-11 18:44:12,20% Discount,False,Reactivated Later
+SUB002766,2026-03-15 10:23:00,Financial,Web Self-Service,True,False,,2026-03-11 06:44:54,One Month Free,False,Churned
+SUB002768,2026-02-09 17:17:08,Price,Web Self-Service,True,False,,2026-02-09 15:22:32,One Month Free,False,Churned
+SUB002772,2026-04-03 14:42:46,Price,Web Self-Service,True,True,2026-05-26 14:42:46,,None,,Reactivated Later
+SUB002773,2026-03-06 14:21:04,Season Ended,Web Self-Service,True,True,2026-05-22 14:21:04,2026-03-03 00:45:01,20% Discount,False,Reactivated Later
+SUB002778,2026-05-02 22:10:08,Moving,Web Self-Service,True,False,,2026-04-30 04:18:53,50% Discount 3 Months,False,Churned
+SUB002779,2026-05-02 13:26:42,Price,Call Centre,True,False,,2026-04-28 17:42:19,One Month Free,False,Churned
+SUB002782,2025-07-31 16:41:14,Not Using,Call Centre,False,False,,2025-07-30 10:11:52,One Month Free,True,Retained
+SUB002785,2025-12-28 12:44:11,Financial,Mobile App,True,False,,2025-12-25 22:40:19,20% Discount,False,Churned
+SUB002788,2025-03-12 18:25:37,Season Ended,Mobile App,True,False,,2025-03-11 08:38:54,Pause Subscription,False,Churned
+SUB002789,2026-04-26 19:10:31,Technical,Web Self-Service,False,False,,2026-04-26 10:39:42,Plan Downgrade,True,Paused
+SUB002791,2025-04-18 13:35:13,Financial,Web Self-Service,True,False,,,None,,Churned
+SUB002792,2026-05-18 19:36:00,Competitor,Mobile App,True,False,,2026-05-17 06:12:52,One Month Free,False,Churned
+SUB002796,2025-11-06 08:17:31,Price,Mobile App,False,False,,2025-11-05 09:03:43,20% Discount,True,Downgraded
+SUB002797,2026-01-15 15:21:31,Content,Email,False,False,,2026-01-13 13:59:12,One Month Free,True,Retained
+SUB002807,2025-08-28 17:42:13,Price,Web Self-Service,True,False,,2025-08-22 19:55:11,Pause Subscription,False,Churned
+SUB002808,2026-03-23 21:49:29,Price,Mobile App,False,False,,2026-03-21 05:09:52,Plan Downgrade,True,Paused
+SUB002810,2026-06-06 09:07:10,Price,Call Centre,True,False,,2026-06-03 17:34:27,One Month Free,False,Churned
+SUB002814,2026-02-19 12:43:20,Technical,Mobile App,True,False,,,None,,Churned
+SUB002827,2026-05-05 21:13:37,Competitor,Mobile App,True,False,,,None,,Churned
+SUB002828,2026-06-23 17:08:07,Season Ended,Web Self-Service,False,False,,2026-06-19 20:35:08,20% Discount,True,Downgraded
+SUB002829,2026-02-12 07:43:07,Technical,Email,True,True,2026-06-11 07:43:07,,None,,Reactivated Later
+SUB002837,2025-04-10 20:38:23,Not Using,Web Self-Service,True,False,,2025-04-06 17:25:56,20% Discount,False,Churned
+SUB002840,2026-02-09 09:32:13,Price,Call Centre,True,False,,,None,,Churned
+SUB002842,2025-01-23 18:28:35,Not Given,Call Centre,True,False,,2025-01-19 14:23:23,50% Discount 3 Months,False,Churned
+SUB002850,2024-11-19 16:07:11,Technical,Email,False,False,,2024-11-14 11:18:50,20% Discount,True,Downgraded
+SUB002851,2026-06-20 14:01:45,Not Given,Web Self-Service,True,False,,2026-06-17 06:25:04,20% Discount,False,Churned
+SUB002858,2026-05-20 22:45:25,Content,Web Self-Service,False,False,,2026-05-15 10:27:02,Plan Downgrade,True,Paused
+SUB002863,2025-11-23 17:59:10,Competitor,Web Self-Service,True,False,,2025-11-21 08:59:59,One Month Free,False,Churned
+SUB002866,2026-05-02 10:45:34,Price,Call Centre,True,False,,2026-05-02 09:22:55,One Month Free,False,Churned
+SUB002867,2025-03-21 21:13:14,Competitor,Mobile App,True,False,,,None,,Churned
+SUB002871,2026-02-19 14:27:47,Price,Web Self-Service,False,False,,2026-02-18 10:20:00,One Month Free,True,Retained
+SUB002872,2025-11-14 10:14:27,Competitor,Call Centre,True,True,2026-03-03 10:14:27,2025-11-11 11:26:45,One Month Free,False,Reactivated Later
+SUB002876,2026-05-25 08:32:37,Price,Mobile App,False,False,,2026-05-23 22:51:25,Plan Downgrade,True,Retained
+SUB002878,2026-05-31 14:02:42,Not Given,Mobile App,False,False,,2026-05-28 22:03:51,50% Discount 3 Months,True,Retained
+SUB002883,2025-07-06 19:26:06,Content,Retail Store,False,False,,2025-07-03 17:12:11,20% Discount,True,Retained
+SUB002887,2026-02-01 10:38:41,Season Ended,Email,False,False,,2026-01-30 13:34:36,Plan Downgrade,True,Paused
+SUB002888,2026-03-28 16:21:01,Price,Mobile App,False,False,,2026-03-26 22:43:36,Pause Subscription,True,Downgraded
+SUB002891,2026-04-05 11:55:51,Not Using,Mobile App,True,False,,2026-03-31 18:50:34,One Month Free,False,Churned
+SUB002893,2025-04-04 12:09:59,Content,Mobile App,True,False,,,None,,Churned
+SUB002895,2026-02-09 11:07:57,Technical,Mobile App,True,True,2026-06-03 11:07:57,2026-02-06 20:09:53,Plan Downgrade,False,Reactivated Later
+SUB002901,2026-04-07 19:32:22,Financial,Mobile App,False,False,,2026-04-04 05:04:07,20% Discount,True,Retained
+SUB002903,2025-10-18 08:44:54,Financial,Web Self-Service,True,True,2025-12-10 08:44:54,2025-10-15 08:13:28,50% Discount 3 Months,False,Reactivated Later
+SUB002906,2026-05-03 11:11:07,Not Using,Call Centre,True,False,,,None,,Churned
+SUB002915,2025-12-25 20:43:48,Price,Call Centre,True,False,,,None,,Churned
+SUB002918,2026-05-02 07:04:01,Content,Call Centre,True,False,,,None,,Churned
+SUB002924,2025-07-27 22:31:53,Price,Mobile App,False,False,,2025-07-26 15:57:11,One Month Free,True,Retained
+SUB002926,2025-10-31 18:41:58,Technical,Mobile App,True,False,,,None,,Churned
+SUB002929,2026-02-02 17:16:17,Competitor,Mobile App,True,False,,,None,,Churned
+SUB002943,2026-02-03 11:45:16,Price,Mobile App,True,False,,2026-02-01 00:03:47,Sport Add-on Free,False,Churned
+SUB002944,2026-04-06 21:36:58,Content,Web Self-Service,False,False,,2026-04-04 14:39:35,50% Discount 3 Months,True,Retained
+SUB002945,2026-05-13 10:27:04,Not Given,Web Self-Service,True,False,,2026-05-10 15:11:32,Plan Downgrade,False,Churned
+SUB002948,2025-09-19 13:14:05,Price,Mobile App,True,False,,,None,,Churned
+SUB002950,2026-03-03 20:25:53,Price,Web Self-Service,True,False,,2026-02-28 07:37:55,One Month Free,False,Churned
+SUB002954,2026-04-12 17:32:57,Content,Web Self-Service,True,False,,2026-04-09 13:11:45,20% Discount,False,Churned
+SUB002957,2026-01-06 10:10:23,Content,Mobile App,True,False,,2026-01-04 18:38:09,20% Discount,False,Churned
+SUB002963,2026-02-23 11:00:54,Content,Web Self-Service,True,False,,2026-02-18 09:30:28,20% Discount,False,Churned
+SUB002966,2026-04-26 17:55:40,Price,Mobile App,True,False,,,None,,Churned
+SUB002968,2025-04-26 22:57:36,Price,Web Self-Service,False,False,,2025-04-24 10:42:29,Sport Add-on Free,True,Retained
+SUB002971,2026-05-21 17:39:38,Season Ended,Email,True,False,,2026-05-19 12:47:46,Sport Add-on Free,False,Churned
+SUB002985,2026-02-21 19:15:45,Technical,Mobile App,True,False,,2026-02-21 12:55:00,One Month Free,False,Churned
+SUB002988,2025-04-24 17:38:56,Season Ended,Mobile App,True,False,,2025-04-22 16:22:58,Plan Downgrade,False,Churned
+SUB002992,2026-01-18 21:30:05,Content,Retail Store,True,False,,,None,,Churned
+SUB002995,2026-05-05 20:13:49,Competitor,Mobile App,True,False,,,None,,Churned
+SUB002998,2026-01-14 11:41:08,Technical,Web Self-Service,False,False,,2026-01-12 07:50:13,One Month Free,True,Downgraded
+SUB002999,2026-02-22 12:22:25,Not Using,Call Centre,True,False,,,None,,Churned
+SUB003000,2026-02-28 12:08:39,Not Using,Web Self-Service,True,False,,,None,,Churned
+SUB003001,2025-12-08 10:54:21,Competitor,Mobile App,False,False,,2025-12-06 15:37:56,20% Discount,True,Paused
+SUB003006,2025-09-16 21:22:51,Content,Call Centre,True,False,,,None,,Churned
+SUB003014,2026-04-15 08:37:23,Technical,Mobile App,True,False,,2026-04-14 14:43:07,Plan Downgrade,False,Churned
+SUB003015,2026-03-13 08:26:10,Content,Call Centre,True,False,,2026-03-09 09:18:55,20% Discount,False,Churned
+SUB003020,2025-09-02 11:18:23,Season Ended,Mobile App,True,False,,2025-08-28 21:46:39,20% Discount,False,Churned
+SUB003023,2026-01-05 15:34:07,Technical,Call Centre,False,False,,2026-01-03 05:16:03,Pause Subscription,True,Retained
+SUB003043,2025-10-19 07:22:37,Price,Call Centre,False,False,,2025-10-15 07:49:42,Plan Downgrade,True,Paused
+SUB003046,2025-07-07 14:46:03,Technical,Mobile App,False,False,,2025-07-05 08:45:32,50% Discount 3 Months,True,Retained
+SUB003047,2026-03-29 17:57:00,Not Given,Web Self-Service,False,False,,2026-03-25 01:09:27,One Month Free,True,Paused
+SUB003049,2026-05-28 18:19:09,Financial,Web Self-Service,True,False,,2026-05-24 10:13:43,Sport Add-on Free,False,Churned
+SUB003057,2025-01-31 08:34:03,Financial,Web Self-Service,True,False,,2025-01-29 19:10:29,50% Discount 3 Months,False,Churned
+SUB003062,2026-04-08 19:54:33,Financial,Mobile App,True,False,,2026-04-04 15:39:30,One Month Free,False,Churned
+SUB003069,2025-08-22 13:53:53,Financial,Call Centre,True,False,,2025-08-17 13:30:10,20% Discount,False,Churned
+SUB003070,2026-03-24 10:18:16,Technical,Mobile App,False,False,,2026-03-23 04:35:54,20% Discount,True,Downgraded
+SUB003081,2026-06-09 10:07:27,Technical,Mobile App,True,False,,2026-06-08 04:44:41,50% Discount 3 Months,False,Churned
+SUB003089,2026-05-09 15:42:55,Financial,Web Self-Service,False,False,,2026-05-08 16:45:46,50% Discount 3 Months,True,Retained
+SUB003091,2026-05-25 07:16:07,Price,Call Centre,True,False,,2026-05-24 12:47:55,One Month Free,False,Churned
+SUB003102,2025-12-15 16:19:23,Price,Call Centre,True,False,,,None,,Churned
