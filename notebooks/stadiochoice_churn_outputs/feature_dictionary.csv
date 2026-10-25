@@ -1,0 +1,13 @@
+feature,calculation,source,unit,time_reference
+account_age_days,Index date minus account creation date,Account table,days,At index date
+subscriber_tenure_days,Index date minus acquisition date,Account table,days,At index date
+subscription_age_days,Index date minus subscription start date,Subscription table,days,At index date
+view_sessions_90d,Distinct session IDs in previous 90 days,Viewing table,sessions,"Lookback: (index−90d, index]"
+viewing_seconds_90d,Sum of viewing duration in previous 90 days,Viewing table,seconds,"Lookback: (index−90d, index]"
+mean_completion_90d,Mean completion rate in previous 90 days,Viewing table,proportion,"Lookback: (index−90d, index]"
+days_since_last_viewing,Days from index date to last viewing,Viewing table,days,At index date
+engagement_events_90d,Number of engagement event rows in previous 90 days,Engagement table,events,"Lookback: (index−90d, index]"
+search_events_90d,Number of Search events in previous 90 days,Engagement table,events,"Lookback: (index−90d, index]"
+failed_payment_events_90d,Sum of payment failure indicators in previous 90 days,Billing table,events,"Lookback: (index−90d, index]"
+amount_charged_90d,Sum of amount charged in previous 90 days,Billing table,ZAR,"Lookback: (index−90d, index]"
+days_since_last_billing,Days from index date to last billing event,Billing table,days,At index date
